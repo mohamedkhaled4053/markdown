@@ -11,7 +11,8 @@
 
 ## what I did
 
-* for `index.html` I added other section which is section 4 and I added a script element
+* for `index.html` 
+    * I added other section which is section 4 and I added a script element
 * for `styles.css` 
     * I added a style for the class 'your-active-class' of the 'li' element
     * I made the ul element flex
